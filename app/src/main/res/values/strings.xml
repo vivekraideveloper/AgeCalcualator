@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="getStarted">Get Started</string>
+    <string name="CurrentDate">Today\'s Date</string>
+    <string name="BirthDate">Date of Birth</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="age">Current Age</string>
+    <string name="year">Years</string>
+    <string name="month">Months</string>
+    <string name="days">Days</string>
+</resources>
